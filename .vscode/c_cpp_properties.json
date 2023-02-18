@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Users\\bayet\\Downloads\\SDL2-devel-2.26.0-mingw\\SDL2-2.26.0\\i686-w64-mingw32\\include\\SDL2",
+                "C:/Users/bayet/Downloads/SDL2-devel-2.26.0-mingw/SDL2-2.26.0/i686-w64-mingw32/include",
+                "${workspaceFolder}/include/headers"
+              
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+            "compilerPath": "C:/MinGW/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
